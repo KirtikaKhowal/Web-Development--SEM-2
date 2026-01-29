@@ -9,3 +9,4 @@ headingElement.style.backgroundColor="yellow";
 const para= document.querySelector("#content p")  
         console.log(para);
         para.style.color="orange";
+        // changes for commit
