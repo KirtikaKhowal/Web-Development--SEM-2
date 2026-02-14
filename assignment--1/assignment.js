@@ -67,6 +67,7 @@ eventContainer.addEventListener("click", (e) => {
 /* ---------------- CLEAR ALL EVENTS ---------------- */
 clearEventsBtn.addEventListener("click", () => {
   eventContainer.innerHTML = "";
+
 });
 
 /* ---------------- ADD SAMPLE EVENTS ---------------- */
@@ -93,5 +94,5 @@ document.addEventListener("keydown", (e) => {
       "You pressed: Shift";
   }
 });
-
-//task2 
+//task-2
+ClearAllBtn
